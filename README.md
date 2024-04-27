@@ -42,3 +42,7 @@ I am a passionate and dedicated student studying Software Engineering, with a ke
 - Email: garvjain2410@gmail.com
 - LinkedIn: [garvjain](https://www.linkedin.com/in/garv-jain-66736a272/)
 - GitHub: [garvjain24](https://github.com/garvjain24)
+
+## GitHub Stats
+![garv's Stats](https://github-readme-stats.vercel.app/api?username=garv&theme=merko&show_icons=true&hide_border=true&count_private=false)
+![garv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garv&theme=merko&show_icons=true&hide_border=true&layout=compact)
